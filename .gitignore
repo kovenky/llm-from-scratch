@@ -1,0 +1,26 @@
+# Large generated artifacts
+data/
+checkpoints/
+runs/
+venv/
+__pycache__/
+
+# Build and packaging
+*.egg-info/
+*.dist-info/
+*.egg
+*.dist
+
+# Compiled / binaries
+*.pyc
+*.pyo
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Logs
+*.log
+runs/
